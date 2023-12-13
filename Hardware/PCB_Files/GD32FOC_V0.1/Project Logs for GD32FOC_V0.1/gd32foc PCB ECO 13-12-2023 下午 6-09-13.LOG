@@ -1,0 +1,20 @@
+Change Component Designator: OldDesignator=X? NewDesignator=X1
+Added Component: Designator=H1(MR30-M)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "MR30-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "image"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "MR30-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Origin Footprint"; Value = "MR30-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reuse Block"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C146690"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "MR30-M"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=gd32foc Member=Component H1 MR30-M
+Added Member To Class: ClassName=gd32foc Member=Component U1 MT6825GT-M4D
+Added Member To Class: ClassName=gd32foc Member=Component U3 FD6288T
